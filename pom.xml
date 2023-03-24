@@ -95,7 +95,6 @@
                     <target>11</target>
                 </configuration>
             </plugin>
-            <!--Plugin Allure do generowania raportów-->
             <plugin>
                 <groupId>io.qameta.allure</groupId>
                 <artifactId>allure-maven</artifactId>
